@@ -1,8 +1,10 @@
 # HONYOMI - 電子書籍検索エンジン
 
-個人やイントラネット環境で使える電子書籍(pdf)の検索エンジンとWebアプリです。手元にある大量のpdfをコマンドラインから登録し、ブラウザ経由で簡単に検索したり、気になるページにメモを付けることが出来ます。
-
 https://github.com/ongaeshi/honyomi
+
+![honyomi-pamphlet](https://raw.githubusercontent.com/ongaeshi/f-ruby-07-exhibition/master/honyomi-pamphlet.jpg)
+
+個人やイントラネット環境で使える電子書籍(pdf)の検索エンジンとWebアプリです。手元にある大量のpdfをコマンドラインから登録し、ブラウザ経由で簡単に検索したり、気になるページにメモを付けることが出来ます。
 
 ブラウザの各タブにデモを用意しました。
 
@@ -16,3 +18,11 @@ http://127.0.0.1:9295
 
 http://honyomi.ongaeshi.me/
 
+## Honyomiについて
+https://github.com/ongaeshi/honyomi
+
+### 作者
+ongaeshi
+![ongaeshi-icon](http://www.gravatar.com/avatar/6377451175704e2d367ce508bffc1fa5)
+WEB:   http://ongaeshi.me
+Twitter: http://twitter.com/ongaeshi
