@@ -21,9 +21,8 @@ http://honyomi.ongaeshi.me/
 ## Honyomiについて
 https://github.com/ongaeshi/honyomi
 
-### 作者
+### 作者: おんがえし
 ![ongaeshi-icon](http://www.gravatar.com/avatar/6377451175704e2d367ce508bffc1fa5)
-ongaeshi
 
 - WEB:   http://ongaeshi.me
 - Twitter: http://twitter.com/ongaeshi
