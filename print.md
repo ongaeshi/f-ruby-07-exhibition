@@ -23,6 +23,9 @@ https://github.com/ongaeshi/honyomi
 
 ### 作者
 ongaeshi
+
 ![ongaeshi-icon](http://www.gravatar.com/avatar/6377451175704e2d367ce508bffc1fa5)
+
 WEB:   http://ongaeshi.me
+
 Twitter: http://twitter.com/ongaeshi
